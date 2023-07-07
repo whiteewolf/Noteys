@@ -1,0 +1,25 @@
+{
+  "name": "noteys",
+  "version": "1.0.0",
+  "description": "Notes Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteewolf/Noteys.git"
+  },
+  "keywords": [
+    "notes",
+    "website",
+    "api",
+    "note"
+  ],
+  "author": "Emil Ilieff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whiteewolf/Noteys/issues"
+  },
+  "homepage": "https://github.com/whiteewolf/Noteys#readme"
+}
